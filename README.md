@@ -1,2 +1,0 @@
-### blog ###
-start wong jian
