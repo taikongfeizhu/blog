@@ -1,2 +1,2 @@
 ### blog ###
-build with bootstrap and modernizr
+build with bootstrap and modernizr v1.0
