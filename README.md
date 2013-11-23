@@ -1,2 +1,2 @@
 ### blog ###
-start jian in go
+start jian in go with wong
