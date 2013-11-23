@@ -1,2 +1,2 @@
 ### blog ###
-start jian
+start jian in github
