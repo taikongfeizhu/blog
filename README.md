@@ -1,2 +1,2 @@
 ### blog ###
-build with bootstrap
+build with master
