@@ -1,2 +1,2 @@
 ### blog ###
-build with branch
+build with bootstrap and modernizr
