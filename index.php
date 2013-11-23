@@ -1,7 +1,6 @@
 ﻿<?php
     $year=date('Y');
     $version="1.0";
-    /*get ready*/
 ?>
 <!DOCTYPE html>
 <html lang="zh-CN">
