@@ -854,7 +854,7 @@ Node.js是一个可以快速构建网络服务及应用的平台。该平台的�
                         <i class="icon icon-normal-smartphone"></i><span class="title"><strong>联系方式</strong></span>
 						<p>微博：@太空飞猪</p>
                         <p>邮箱：497761497@qq.com</p>
-						<p>Github：taikongfeizhu@163.com</p>
+						<p>Github：https://github.com/taikongfeizhu</p>
                     </address>
 
                 </div><!-- /.item -->
