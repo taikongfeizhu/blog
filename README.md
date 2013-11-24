@@ -1,2 +1,2 @@
 ### blog ###
-start jian
+start jian v1.0
