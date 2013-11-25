@@ -1,6 +1,7 @@
 ﻿<?php
     $year=date('Y');
     $version="1.0";
+	/*blog information*/
 ?>
 <!DOCTYPE html>
 <html lang="zh-CN">
