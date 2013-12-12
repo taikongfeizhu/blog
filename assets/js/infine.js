@@ -121,7 +121,12 @@ $(document).ready(function() {
   if (Modernizr.cssanimations) {
     (function loading() {
       setTimeout(function() {
-        $('#loading-start').fadeOut(800);
+          //$('#loading-start').fadeOut(800);
+          var h=$(window).height(),
+               loadingPage=$('#loading-start');
+          loadingPage.animate({top:'50px'},300,function(){
+              loadingPage.animate({top:'-'+h+'px',opacity:0.9},1000);
+          });
       }, 2000);
     })();
     $("html").niceScroll(niceScrollOpt);
@@ -149,7 +154,7 @@ $(document).ready(function() {
       return false;
     }
   });
-  
+
 
   (function backToTop() {
     var $backToTopEle = $('<div id="backToTop" class="backToTop"></div>').appendTo("body");
@@ -169,8 +174,8 @@ $(document).ready(function() {
     $(window).bind("scroll", showBtn);
   })();
 
-    $("img.lazy").lazyload({
-        effect : "fadeIn"
-    });
+  $("img.lazy").lazyload({
+    effect: "fadeIn"
+  });
 
 });
